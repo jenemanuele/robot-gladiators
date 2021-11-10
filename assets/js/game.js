@@ -68,7 +68,7 @@ var fight = function(enemyName) {
     }
   }
 };
-
+//randomNumber()
 //function to start a new game
 var startGame = function() {
   for ( var i = 0; i < enemyNames.length; i++){
